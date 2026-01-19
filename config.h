@@ -19,7 +19,7 @@
 // Define blocks for the status feed as X(icon, cmd, interval, signal).
 #define BLOCKS(X)             \
     X("", "sb-mail", 600, 1)  \
-    /* X("", "sb-nvidia", 5, 2) */ \
+    /* X("", "sb-radeon", 5, 2) */ \
     /* X("", "sb-disk", 1800, 3) */ \
     /* X("", "sb-memory", 10, 4) */ \
     X("", "sb-mic", 0, 6)     \
